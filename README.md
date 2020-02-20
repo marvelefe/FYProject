@@ -1,4 +1,8 @@
 # Malaria Detection in Blood Samples Using Convolutional Neural Networks
+Intro: This entire project was developed from April - July 2019 for my final year project at Benson Idahosa University, Benin City, Edo State, Nigeria.
+
+HEADS UP: I'd recommend you train your CNN using a computer with a Cuda-enabled GPU. If you can't afford one like myself (I used a basic intel core i5 CPU to train this CNN) then you should be ready to change your computer's hard drive when you're done because the entire training process takes a toll on your hard drive.
+
 Malaria is the leading cause of morbidity and mortality in tropical and subtropical countries. WHO
 estimates the number of malaria deaths at 435,000 for 2018. Machine learning has great potential
 to lighten the burden of malaria in temperate regions around the world where mosquitoes thrive
