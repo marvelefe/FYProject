@@ -1,8 +1,8 @@
 # Malaria Detection in Blood Samples Using Convolutional Neural Networks
-Intro: I built this software from scratch from April - July 2019 for my final year project at Benson Idahosa University.
+The ultimate goal of this work was to develop a system for detecting malaria using microscopic images of stained blood
+samples.
 
-TIP: I'd recommend you train your CNN using a computer with a Cuda-enabled GPU.
-
+# Case Study
 Malaria is the leading cause of morbidity and mortality in tropical and subtropical countries. WHO
 estimates the number of malaria deaths at 435,000 for 2018. Machine learning has great potential
 to lighten the burden of malaria in temperate regions around the world where mosquitoes thrive
@@ -12,9 +12,7 @@ However, the accuracy of the manual method of malaria
 diagnosis using microscopy depends on the human expert. However, it is prone to some
 shortcomings which include time consumption and excessive workload for the pathologists. We
 propose an automated diagnostic system that can exclude the human expert from the process or
-serve as an aid for an expert to lower workload and improve accuracy. The ultimate goal of this
-work was to develop a system for detecting malaria using microscopic images of stained blood
-samples.
+serve as an aid for an expert to lower workload and improve accuracy. 
 
 Thus in the process of this work, an accurate, speedy and affordable system of malaria detection
 using stained blood smear images was developed. The method is based on supervised machine
@@ -32,3 +30,6 @@ samples that it had not seen before and further classified them as infected or u
 accurate diagnosis is one of the keystones in the fight against this. This project work can be
 described as a required component in the development of a tool that will bring a healthy and
 malaria-free world one step closer to reality.
+
+# Extra
+I worked on this project from scratch between April 2019 - July 2019 for my final year project at Benson Idahosa University and the entire publication for this study can be found [here](https://www.academia.edu/42984295/MALARIA_DETECTION_IN_BLOOD_SAMPLES_USING_CONVOLUTIONAL_NEURAL_NETWORKS) 
