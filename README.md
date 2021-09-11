@@ -28,9 +28,9 @@ The algorithm successfully trained on 1,000 images with a training
 and validation accuracy of 100.00% respectively and it was tested on the images of four blood
 samples that it had not seen before and further classified them as infected or uninfected with a
 100% accuracy. The battle against the devastating burden of malaria will continue. Early and
-accurate diagnosis is one of the keystones in the fight against this. This project work can be
+accurate diagnosis is one of the keystones in the fight against this. This work can be
 described as a required component in the development of a tool that will bring a healthy and
 malaria-free world one step closer to reality.
 
 # Extra
-I worked on this project from scratch between April 2019 - July 2019 for my final year project at Benson Idahosa University and the entire publication for this study can be found [here](https://www.academia.edu/42984295/MALARIA_DETECTION_IN_BLOOD_SAMPLES_USING_CONVOLUTIONAL_NEURAL_NETWORKS) 
+I worked solo on this project between April 2019 - July 2019 for my final year project at Benson Idahosa University and the entire publication for this study can be found [here](https://www.academia.edu/42984295/MALARIA_DETECTION_IN_BLOOD_SAMPLES_USING_CONVOLUTIONAL_NEURAL_NETWORKS) 
