@@ -33,4 +33,4 @@ described as a required component in the development of a tool that will bring a
 malaria-free world one step closer to reality.
 
 # Extra
-I worked solo on this project between April 2019 - July 2019 for my final year project at Benson Idahosa University and the entire publication for this study can be found [here](https://www.academia.edu/42984295/MALARIA_DETECTION_IN_BLOOD_SAMPLES_USING_CONVOLUTIONAL_NEURAL_NETWORKS) 
+I worked solo on this project between April 2019 - July 2019 at Benson Idahosa University and the entire publication for this study can be found [here](https://www.academia.edu/42984295/MALARIA_DETECTION_IN_BLOOD_SAMPLES_USING_CONVOLUTIONAL_NEURAL_NETWORKS) 
