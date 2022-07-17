@@ -4,7 +4,7 @@ The ultimate goal of this work was to develop a system for detecting malaria usi
 samples.
 
 # Conclusion
-The algorithm successfully trained on 1,000 images with a training
+The ConvNet successfully trained on 1,000 images with a training
 and validation accuracy of 100.00% respectively and it was tested on the images of four blood
 samples that it had not seen before and further classified them as infected or uninfected with a
 100% accuracy. 
