@@ -10,4 +10,4 @@ samples that it had not seen before and further classified them as infected or u
 100% accuracy. 
 
  
-I worked solo on this program between April 2019 - July 2019 at Benson Idahosa University and the entire publication for this study can be found [here](https://www.academia.edu/42984295/MALARIA_DETECTION_IN_BLOOD_SAMPLES_USING_CONVOLUTIONAL_NEURAL_NETWORKS) 
+I worked solo on this program between April 2019 - July 2019 at Benson Idahosa University and the entire publication for this study can be found [here](https://www.academia.edu/42984295/MALARIA_DETECTION_IN_BLOOD_SAMPLES_USING_CONVOLUTIONAL_NEURAL_NETWORKS) on Academia
