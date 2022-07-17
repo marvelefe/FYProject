@@ -1,6 +1,6 @@
 ![alt text](https://repository-images.githubusercontent.com/241888521/acefcf80-55f4-11ea-945a-a1f63e292cb9)
 # Malaria Detection in Blood Samples Using Convolutional Neural Networks
-The ultimate goal of this work was to develop a system for detecting malaria using microscopic images of stained blood
+The ultimate goal of this work was to develop a program for detecting malaria using microscopic images of stained blood
 samples.
 
 # Conclusion
